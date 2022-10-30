@@ -2,6 +2,7 @@ html, body {
   height: 100%;
   width: 100%;
 }
+/* my page design */
 header {
   background-color: #815303
 }
@@ -12,14 +13,14 @@ header h1 {
   font-size: 38px;
   text-align: center; 
 }
-
+/* my personal photo */
 img {
   height: 420px;
   margin: auto;
   display: block;
   padding: 20px 0;
 }
-
+/* text design */
  h2 {
   font-family: 'Montserrat Alternates'
   color: black;
@@ -27,8 +28,6 @@ img {
   font-size: 28px;
   font-weight: 500;
 }
-
-
 
 h3 {
   font-family: 'Montserrat Alternates'
